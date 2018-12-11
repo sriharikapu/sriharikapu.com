@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_tmp/
+Disallow: /404/
+Disallow: /assets/
+Disallow: /datenschutz/
